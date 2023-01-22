@@ -30,6 +30,7 @@ Main.BackgroundColor3 = Color3.fromRGB(5, 5, 5)
 Main.Position = UDim2.new(0.312988877, 0, 0.25897792, 0)
 Main.Size = UDim2.new(0, 666, 0, 394)
 Main.Active = true
+Main.Draggable = true
 
 UICorner.Parent = Main
 
